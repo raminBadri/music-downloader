@@ -1,9 +1,4 @@
-````markdown
-id: music_downloader_readme
-name: Improved README for Music Downloader Project
-type: markdown
-content: |-
-  # Music Downloader (Python Web Scraping Practice)
+# Music Downloader (Python Web Scraping Practice)
 
   ## Description
   This project is a practice exercise in web scraping using Python. It downloads popular music tracks from the website [pop-music.ir](http://pop-music.ir/) based on user ratings (songs with more than 15,000 views are selected). The script uses `BeautifulSoup4` for HTML parsing and `requests` for HTTP interactions.
@@ -44,4 +39,3 @@ content: |-
 
   ## License
   This project is open-source. Use at your own risk.
-````
